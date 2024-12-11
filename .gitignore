@@ -2,3 +2,4 @@ places365/
 scenes_all/
 scenes_all_6_categories/
 resnet18_place365_finetuned_old.pth.tar
+resnet18_place365_finetuned_original_normalize.pth.tar
